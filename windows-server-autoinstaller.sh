@@ -59,10 +59,10 @@ case $choice in
         iso_file="windows11.iso"
         ;;
     6)
-        # Windows 10LTSC
+        # Windows10LTSC
         img_file="Windows 10LTSC.img"
-        iso_link="https://pancenoye.top/WIN10LTSC.ISO"
-        iso_file="Windows 10LTSC.ISO"
+        iso_link="https://pancenoye.top/Windows10LTSC.iso"
+        iso_file="Windows10LTSC.iso"
         ;;
     *)
         echo "Invalid choice. Exiting."
