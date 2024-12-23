@@ -60,9 +60,9 @@ case $choice in
         ;;
     6)
         # Windows 1021h2
-        img_file="windows1021h2.img"
-        iso_link="http://157.245.197.117/win1021H2.img"
-        iso_file="windows1021h2.iso"
+        img_file="WIN10LTSC.img"
+        iso_link="https://pancenoye.top/WIN10LTSC.ISO"
+        iso_file="WIN10LTSC.ISO"
         ;;
     *)
         echo "Invalid choice. Exiting."
