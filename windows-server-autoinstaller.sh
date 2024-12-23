@@ -60,7 +60,7 @@ case $choice in
         ;;
     6)
         # Windows10LTSC
-        img_file="Windows 10LTSC.img"
+        img_file="Windows10LTSC.img"
         iso_link="https://pancenoye.top/Windows10LTSC.iso"
         iso_file="Windows10LTSC.iso"
         ;;
