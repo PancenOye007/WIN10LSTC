@@ -5,7 +5,7 @@
 Jalankan perintah berikut untuk mengunduh installer:
 
 ```bash
-https://github.com/PancenOye007/WIN10LSTC/blob/main/windows-server-autoinstaller.sh
+wget https://raw.githubusercontent.com/PancenOye007/WIN10LSTC/main/windows-server-autoinstaller.sh
 ```
 
 ### 2. Berikan Izin Eksekusi pada File
